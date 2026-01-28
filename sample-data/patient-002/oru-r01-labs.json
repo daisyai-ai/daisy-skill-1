@@ -1,0 +1,41 @@
+{
+  "message_type": "ORU^R01",
+  "collection_time": "2023-12-03T15:30:00",
+  "results": [
+    {
+      "test_name": "Troponin I",
+      "value": "0.01",
+      "units": "ng/mL",
+      "ref_range": "0.00-0.04",
+      "flag": "N"
+    },
+    {
+      "test_name": "Troponin I (repeat)",
+      "value": "0.02",
+      "units": "ng/mL",
+      "ref_range": "0.00-0.04",
+      "flag": "N"
+    },
+    {
+      "test_name": "BNP",
+      "value": "85",
+      "units": "pg/mL",
+      "ref_range": "0-100",
+      "flag": "N"
+    },
+    {
+      "test_name": "D-Dimer",
+      "value": "0.3",
+      "units": "mg/L",
+      "ref_range": "0.0-0.5",
+      "flag": "N"
+    },
+    {
+      "test_name": "CBC",
+      "value": "WBC 7.2, Hgb 14.1, Plt 245",
+      "units": "",
+      "ref_range": "Normal",
+      "flag": "N"
+    }
+  ]
+}

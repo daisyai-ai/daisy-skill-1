@@ -1,0 +1,7 @@
+{
+  "message_type": "MDM^T02",
+  "doc_title": "ED Provider Note",
+  "author": "Dr. James Chen (ED)",
+  "signed_time": "2023-10-27T13:45:00",
+  "note_text": "HISTORY OF PRESENT ILLNESS:\n78 y/o male with hx of COPD, HTN. Presents with 3 days of productive cough and fever. Wife states he has been confused today. \n\nED COURSE:\nPatient arrived hypoxic (88%). Placed on 2L O2, titrated to 4L to maintain sats >92%. \nCXR reveals RLL consolidation.\nLactate elevated at 3.1. Sepsis bolus initiated (30cc/kg).\nGiven Rocephin and Azithromycin IV.\n\nMEDICAL DECISION MAKING:\nPatient with Sepsis 2/2 Community Acquired Pneumonia. \nRisk Logic:\n1. CURB-65 Score of 3 (Confusion, Urea>7, Age>65). Mortality risk 14%. \n2. Failure of outpatient management (patient took oral Amox for 2 days with no improvement).\n3. Hypoxia requiring supplemental oxygen (4L).\n\nPLAN:\nAdmit to Medicine (Inpatient).\nCont IV Abx and Fluids.\nMonitor for decompensation."
+}

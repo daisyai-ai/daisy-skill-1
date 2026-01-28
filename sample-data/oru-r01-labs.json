@@ -1,0 +1,34 @@
+{
+  "message_type": "ORU^R01",
+  "collection_time": "2023-10-27T12:15:00",
+  "results": [
+    {
+      "test_name": "WBC",
+      "value": "18.4",
+      "units": "10*3/uL",
+      "ref_range": "4.5-11.0",
+      "flag": "H"
+    },
+    {
+      "test_name": "Lactate",
+      "value": "3.1",
+      "units": "mmol/L",
+      "ref_range": "0.5-2.0",
+      "flag": "H"
+    },
+    {
+      "test_name": "Creatinine",
+      "value": "1.4",
+      "units": "mg/dL",
+      "ref_range": "0.7-1.3",
+      "flag": "H"
+    },
+    {
+      "test_name": "Troponin I",
+      "value": "0.02",
+      "units": "ng/mL",
+      "ref_range": "0.00-0.04",
+      "flag": "N"
+    }
+  ]
+}

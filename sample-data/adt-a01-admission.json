@@ -1,0 +1,34 @@
+{
+  "message_type": "ADT^A01",
+  "event_timestamp": "2023-10-27T14:30:00",
+  "PID": {
+    "patient_id": "MRN-998877",
+    "sex": "M",
+    "birth_date": "1945-05-12",
+    "age_calculated": 78
+  },
+  "PV1": {
+    "patient_class": "I",
+    "assigned_location": "3W^302^A",
+    "admission_type": "1",
+    "admitting_physician": "Dr. Sarah Miller",
+    "visit_number": "VIS-2023-001"
+  },
+  "DG1": [
+    {
+      "set_id": "1",
+      "diagnosis_code": "A41.9",
+      "diagnosis_desc": "Sepsis, unspecified organism"
+    },
+    {
+      "set_id": "2",
+      "diagnosis_code": "J18.9",
+      "diagnosis_desc": "Pneumonia, unspecified organism"
+    }
+  ],
+  "IN1": {
+    "plan_id": "MCARE",
+    "plan_name": "Medicare Part A",
+    "payer_type": "MEDICARE"
+  }
+}

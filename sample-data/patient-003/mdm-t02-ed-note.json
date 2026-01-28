@@ -1,0 +1,7 @@
+{
+  "message_type": "MDM^T02",
+  "doc_title": "ED Provider Note",
+  "author": "Dr. Sarah Johnson (ED)",
+  "signed_time": "2023-12-18T22:10:00",
+  "note_text": "HISTORY OF PRESENT ILLNESS:\n65 y/o male with severe COPD (FEV1 32% predicted), on home O2 2L. Presents with 2 days of worsening dyspnea, increased sputum production (yellow-green). Reports inability to complete sentences. 40 pack-year smoking history, quit 5 years ago.\n\nED COURSE:\nPatient in severe respiratory distress on arrival, using accessory muscles. SpO2 78% on RA, placed on NRB with minimal improvement. ABG shows acute on chronic respiratory acidosis (pH 7.31, pCO2 58). Started on BiPAP 12/5 with improvement in work of breathing and sats to 92%.\n\nMEDICAL DECISION MAKING:\nSevere COPD exacerbation with acute hypoxic and hypercapnic respiratory failure.\n\nSeverity indicators:\n1. Acute respiratory failure requiring BiPAP\n2. ABG showing respiratory acidosis\n3. Elevated procalcitonin suggesting bacterial infection\n4. Tachypnea (RR 32) and accessory muscle use\n5. Failed to maintain oxygenation on simple O2\n\nPLAN:\nAdmit to ICU (Inpatient).\nContinue BiPAP, may need intubation if worsens.\nIV Solumedrol, nebulizers Q4H.\nIV antibiotics (Ceftriaxone + Azithromycin) for presumed bacterial trigger.\nExpected stay 4-7 days."
+}

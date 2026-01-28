@@ -1,0 +1,41 @@
+{
+  "message_type": "ORU^R01",
+  "collection_time": "2023-12-18T21:00:00",
+  "results": [
+    {
+      "test_name": "ABG pH",
+      "value": "7.31",
+      "units": "",
+      "ref_range": "7.35-7.45",
+      "flag": "L"
+    },
+    {
+      "test_name": "ABG pCO2",
+      "value": "58",
+      "units": "mmHg",
+      "ref_range": "35-45",
+      "flag": "H"
+    },
+    {
+      "test_name": "ABG pO2",
+      "value": "52",
+      "units": "mmHg",
+      "ref_range": "80-100",
+      "flag": "L"
+    },
+    {
+      "test_name": "WBC",
+      "value": "14.8",
+      "units": "10*3/uL",
+      "ref_range": "4.5-11.0",
+      "flag": "H"
+    },
+    {
+      "test_name": "Procalcitonin",
+      "value": "0.8",
+      "units": "ng/mL",
+      "ref_range": "0.0-0.5",
+      "flag": "H"
+    }
+  ]
+}

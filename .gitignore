@@ -1,0 +1,10 @@
+# Runtime state files
+waypoints/
+outputs/
+
+# Generated files
+*.pdf
+*.html
+
+# OS files
+.DS_Store

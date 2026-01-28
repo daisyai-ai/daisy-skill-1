@@ -1,0 +1,41 @@
+{
+  "message_type": "ORU^R01",
+  "collection_time": "2024-01-08T10:15:00",
+  "results": [
+    {
+      "test_name": "WBC",
+      "value": "13.2",
+      "units": "10*3/uL",
+      "ref_range": "4.5-11.0",
+      "flag": "H"
+    },
+    {
+      "test_name": "Glucose",
+      "value": "285",
+      "units": "mg/dL",
+      "ref_range": "70-100",
+      "flag": "H"
+    },
+    {
+      "test_name": "HbA1c",
+      "value": "9.2",
+      "units": "%",
+      "ref_range": "4.0-5.6",
+      "flag": "H"
+    },
+    {
+      "test_name": "Creatinine",
+      "value": "1.0",
+      "units": "mg/dL",
+      "ref_range": "0.7-1.3",
+      "flag": "N"
+    },
+    {
+      "test_name": "Lactate",
+      "value": "1.4",
+      "units": "mmol/L",
+      "ref_range": "0.5-2.0",
+      "flag": "N"
+    }
+  ]
+}

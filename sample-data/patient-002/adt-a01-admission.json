@@ -1,0 +1,34 @@
+{
+  "message_type": "ADT^A01",
+  "event_timestamp": "2023-12-03T16:45:00",
+  "PID": {
+    "patient_id": "MRN-445566",
+    "sex": "M",
+    "birth_date": "1968-03-14",
+    "age_calculated": 55
+  },
+  "PV1": {
+    "patient_class": "I",
+    "assigned_location": "3N^312^A",
+    "admission_type": "1",
+    "admitting_physician": "Dr. Amanda Torres",
+    "visit_number": "VIS-2023-892"
+  },
+  "DG1": [
+    {
+      "set_id": "1",
+      "diagnosis_code": "R07.9",
+      "diagnosis_desc": "Chest pain, unspecified"
+    },
+    {
+      "set_id": "2",
+      "diagnosis_code": "I25.10",
+      "diagnosis_desc": "Atherosclerotic heart disease of native coronary artery without angina pectoris"
+    }
+  ],
+  "IN1": {
+    "plan_id": "BCBS",
+    "plan_name": "Blue Cross Blue Shield PPO",
+    "payer_type": "COMMERCIAL"
+  }
+}

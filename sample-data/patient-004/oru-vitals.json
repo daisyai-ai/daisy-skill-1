@@ -1,0 +1,23 @@
+{
+  "message_type": "ORU^R01^VITALS",
+  "flowsheet_data": [
+    {
+      "time": "2024-01-08T10:00:00",
+      "bp_systolic": 128,
+      "bp_diastolic": 78,
+      "hr": 92,
+      "temp_f": 100.2,
+      "spo2": 97,
+      "o2_source": "Room Air"
+    },
+    {
+      "time": "2024-01-08T11:00:00",
+      "bp_systolic": 124,
+      "bp_diastolic": 76,
+      "hr": 88,
+      "temp_f": 99.8,
+      "spo2": 98,
+      "o2_source": "Room Air"
+    }
+  ]
+}

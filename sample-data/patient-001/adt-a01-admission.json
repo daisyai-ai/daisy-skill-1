@@ -1,0 +1,34 @@
+{
+  "message_type": "ADT^A01",
+  "event_timestamp": "2023-11-15T09:20:00",
+  "PID": {
+    "patient_id": "MRN-112233",
+    "sex": "F",
+    "birth_date": "1952-08-22",
+    "age_calculated": 71
+  },
+  "PV1": {
+    "patient_class": "I",
+    "assigned_location": "4E^410^B",
+    "admission_type": "1",
+    "admitting_physician": "Dr. Robert Kim",
+    "visit_number": "VIS-2023-445"
+  },
+  "DG1": [
+    {
+      "set_id": "1",
+      "diagnosis_code": "I50.33",
+      "diagnosis_desc": "Acute on chronic diastolic heart failure"
+    },
+    {
+      "set_id": "2",
+      "diagnosis_code": "J81.0",
+      "diagnosis_desc": "Acute pulmonary edema"
+    }
+  ],
+  "IN1": {
+    "plan_id": "MCARE",
+    "plan_name": "Medicare Part A",
+    "payer_type": "MEDICARE"
+  }
+}

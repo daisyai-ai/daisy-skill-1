@@ -1,0 +1,30 @@
+{
+  "message_type": "ORU^R01^VITALS",
+  "flowsheet_data": [
+    {
+      "time": "2023-11-15T07:30:00",
+      "bp_systolic": 168,
+      "bp_diastolic": 95,
+      "hr": 110,
+      "temp_f": 98.4,
+      "spo2": 86,
+      "o2_source": "Room Air"
+    },
+    {
+      "time": "2023-11-15T08:15:00",
+      "bp_systolic": 155,
+      "bp_diastolic": 88,
+      "hr": 102,
+      "spo2": 91,
+      "o2_source": "4L NC"
+    },
+    {
+      "time": "2023-11-15T09:00:00",
+      "bp_systolic": 142,
+      "bp_diastolic": 82,
+      "hr": 94,
+      "spo2": 94,
+      "o2_source": "2L NC"
+    }
+  ]
+}
